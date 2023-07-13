@@ -85,6 +85,10 @@ The project centers around data analysis utilizing Python. Culminating the analy
 <br/>
 
 
+<br/><img src=![Screenshot (83)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/e8afea93-0b96-42a5-a2be-3e99e14fd67f)/>
+<br/>
+<br/>
+
 <!--
  ```diff
 - text in red

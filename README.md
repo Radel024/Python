@@ -22,7 +22,7 @@ The project centers around data analysis utilizing Python. Culminating the analy
 
 <p align="center">
 
-<img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/2b6e3104-6845-448f-8cb1-2becd26aae66"/>
+<br />![Screenshot (84)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/dbd04d50-db3e-40fc-8396-f1f47ec2ccb8)
 <br />
 <br />
  

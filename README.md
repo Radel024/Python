@@ -22,7 +22,7 @@ The project centers around data analysis utilizing Python. Culminating the analy
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![Screenshot (67)](https://github.com/Radel024/IT-Fundementals-/assets/137848295/2b6e3104-6845-448f-8cb1-2becd26aae66)"/>
 <br />
 <br />
 Select the disk:  <br/>

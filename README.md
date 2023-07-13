@@ -25,26 +25,32 @@ Launch the utility: <br/>
 <img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/2b6e3104-6845-448f-8cb1-2becd26aae66"/>
 <br />
 <br />
+ 
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=!"https://github.com/Radel024/IT-Fundementals-/assets/137848295/ecef99d5-bd28-4fe4-8158-83f6e5107e58"/>
 <br />
 <br />
+
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/7547aa72-5a73-4a03-bf12-c7329d0815a1"/>
 <br />
 <br />
+
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
 Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

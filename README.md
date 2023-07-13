@@ -37,23 +37,43 @@ Enter the number of passes: <br/>
 <br />
 
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/60a9b098-b16a-4b4a-8a18-0c789dce018b"/>
 <br />
 <br />
 
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Wait for process to complete (may take some time): <br/>
+<img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/de884ac4-9c43-420b-940f-e8c9719f68b3"/>
 <br />
 <br />
 
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sanitization complete:  <br/>(https://github.com/Radel024/IT-Fundementals-/assets/137848295/24837b3c-31e4-4116-a341-2eb82f4f551a"/>
 <br />
 <br />
 
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Observe the wiped disk: <br/>"img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+<br/>
+<br/>
+
+Observe the wiped disk: <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+<br/>
+<br/>
+
+Observe the wiped disk: <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+<br/>
+<br/>
+
+Observe the wiped disk: <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+<br/>
+<br/>
+
+Observe the wiped disk: <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+<br/>
+<br/>
+
+Observe the wiped disk: <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+<br/>
+<br/>
+
 
 <!--
  ```diff

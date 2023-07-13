@@ -27,44 +27,47 @@ The project centers around data analysis utilizing Python. Culminating the analy
 <br />
  
 
-<img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/ecef99d5-bd28-4fe4-8158-83f6e5107e58"/>
+<br />![Screenshot (85)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/2957cd92-b904-47f3-a8c1-ea33d06bff45)
 <br />
 <br />
 
-<img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/7547aa72-5a73-4a03-bf12-c7329d0815a1"
+<br />![Screenshot (86)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/d14c5560-958d-4282-a7a9-ad459c995d3d)
 <br />
 <br />
 
-<img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/60a9b098-b16a-4b4a-8a18-0c789dce018b"/>
+<br />![Screenshot (87)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/713b0dd6-8e15-4eb0-aecc-3e63e2130d1f)
 <br />
 <br />
 
-<img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/de884ac4-9c43-420b-940f-e8c9719f68b3"/>
+<br />![Screenshot (88)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/8a215b3d-e11f-4365-ac94-b5eeedb8bc50)
 <br />
 <br />
 
-<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/24837b3c-31e4-4116-a341-2eb82f4f551a"/>
+<br />![Screenshot (89)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/4bdfd580-5220-45e4-8dce-b59fc8b46f62)
 <br />
 <br />
 
-<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+<br/>![Screenshot (90)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/91a9f535-2fce-4a48-8da2-74aaac7b32e2)
+<br />
+<br />
+
+<br/>![Screenshot (91)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/c0be652f-0772-4d73-b9fe-818482966b53)
 <br/>
 <br/>
 
-<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/ccd57826-0c58-4e82-8b4b-fc683b7f3d95"/>
+<br/>![Screenshot (92)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/4eee17f6-598a-4531-a302-987302c8a2ba)
 <br/>
 <br/>
 
-
-<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/8c046fc7-d893-439c-9e0a-0cd5b8da04ed"/>
+<br/>![Screenshot (93)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/e6a4b798-2706-446c-ab82-d6b1bf2d3780)
 <br/>
 <br/>
 
-<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/331cc00d-d537-49d6-abbc-aac3f2e2e21b"/>
+<br/>![Screenshot (94)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/2c8f963d-bb5f-485e-a098-f8703304e040)
 <br/>
 <br/>
 
-<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/bae749ac-c19d-4b64-9399-ff0c7bea4385"/>
+<br/>![Screenshot (95)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/d6f7285e-26ba-493f-9783-97c4be85ea5d)
 <br/>
 <br/>
 

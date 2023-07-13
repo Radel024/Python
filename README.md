@@ -46,31 +46,38 @@ Wait for process to complete (may take some time): <br/>
 <br />
 <br />
 
-Sanitization complete:  <br/>(https://github.com/Radel024/IT-Fundementals-/assets/137848295/24837b3c-31e4-4116-a341-2eb82f4f551a"/>
+Sanitization complete:  
+<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/24837b3c-31e4-4116-a341-2eb82f4f551a"/>
 <br />
 <br />
 
-Observe the wiped disk: <br/>"img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+Observe the wiped disk: 
+<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
 <br/>
 <br/>
 
-Observe the wiped disk: <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+Observe the wiped disk: 
+<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
 <br/>
 <br/>
 
-Observe the wiped disk: <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+Observe the wiped disk:
+<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
 <br/>
 <br/>
 
-Observe the wiped disk: <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+Observe the wiped disk: 
+<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
 <br/>
 <br/>
 
-Observe the wiped disk: <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+Observe the wiped disk: 
+<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
 <br/>
 <br/>
 
-Observe the wiped disk: <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+Observe the wiped disk: 
+<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
 <br/>
 <br/>
 

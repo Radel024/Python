@@ -57,7 +57,7 @@ Observe the wiped disk:
 <br/>
 
 Observe the wiped disk: 
-<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+<br/><img src=""/>
 <br/>
 <br/>
 

@@ -92,9 +92,6 @@ Observe the wiped disk:
 <br/>
 <br/>
 
-<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/532076b9-1563-4276-950b-8811b0cbbb73"/>
-<br/>
-<br/>
 
 <!--
  ```diff

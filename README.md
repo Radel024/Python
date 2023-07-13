@@ -31,16 +31,13 @@ The project centers around data analysis utilizing Python. Culminating the analy
 <br />
 <br />
 
-
 <img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/7547aa72-5a73-4a03-bf12-c7329d0815a1"/>
 <br />
 <br />
 
-
 <img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/60a9b098-b16a-4b4a-8a18-0c789dce018b"/>
 <br />
 <br />
-
 
 <img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/de884ac4-9c43-420b-940f-e8c9719f68b3"/>
 <br />
@@ -50,27 +47,22 @@ The project centers around data analysis utilizing Python. Culminating the analy
 <br />
 <br />
 
-Observe the wiped disk: 
 <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
 <br/>
 <br/>
-
 
 <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/ccd57826-0c58-4e82-8b4b-fc683b7f3d95"/>
 <br/>
 <br/>
 
 
-
 <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/8c046fc7-d893-439c-9e0a-0cd5b8da04ed"/>
 <br/>
 <br/>
 
-
 <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/331cc00d-d537-49d6-abbc-aac3f2e2e21b"/>
 <br/>
 <br/>
-
 
 <br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/bae749ac-c19d-4b64-9399-ff0c7bea4385"/>
 <br/>

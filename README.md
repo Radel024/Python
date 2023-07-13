@@ -27,7 +27,7 @@ Launch the utility: <br/>
 <br />
  
 Select the disk:  <br/>
-<img src=!"https://github.com/Radel024/IT-Fundementals-/assets/137848295/ecef99d5-bd28-4fe4-8158-83f6e5107e58"/>
+<img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/ecef99d5-bd28-4fe4-8158-83f6e5107e58"/>
 <br />
 <br />
 

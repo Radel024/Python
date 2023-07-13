@@ -57,7 +57,8 @@ Observe the wiped disk:
 <br/>
 
 Observe the wiped disk: 
-<br/><img src=""/>
+<br/><img src="![Screenshot (75)](https://github.com/Radel024/IT-Fundementals-/assets/137848295/ccd57826-0c58-4e82-8b4b-fc683b7f3d95)
+"/>
 <br/>
 <br/>
 
@@ -67,17 +68,17 @@ Observe the wiped disk:
 <br/>
 
 Observe the wiped disk: 
-<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/8c046fc7-d893-439c-9e0a-0cd5b8da04ed"/>
 <br/>
 <br/>
 
 Observe the wiped disk: 
-<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/331cc00d-d537-49d6-abbc-aac3f2e2e21b"/>
 <br/>
 <br/>
 
 Observe the wiped disk: 
-<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/3a990a99-04eb-44a1-84bc-18cc02b3132b"/>
+<br/><img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/bae749ac-c19d-4b64-9399-ff0c7bea4385"/>
 <br/>
 <br/>
 

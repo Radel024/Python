@@ -31,7 +31,7 @@ The project centers around data analysis utilizing Python. Culminating the analy
 <br />
 <br />
 
-<img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/7547aa72-5a73-4a03-bf12-c7329d0815a1"/>
+<img src="https://github.com/Radel024/IT-Fundementals-/assets/137848295/7547aa72-5a73-4a03-bf12-c7329d0815a1"
 <br />
 <br />
 
@@ -68,24 +68,24 @@ The project centers around data analysis utilizing Python. Culminating the analy
 <br/>
 <br/>
 
-<br/>![Screenshot (79)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/6b8fbbf9-91b3-4b08-a54c-ec6485492d1b)/>
+<br/>![Screenshot (79)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/6b8fbbf9-91b3-4b08-a54c-ec6485492d1b)
 <br/>
 <br/>
 
-<br/>![Screenshot (80)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/e0737271-cfe5-424a-831e-c2d0c3cf27b8)/>
+<br/>![Screenshot (80)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/e0737271-cfe5-424a-831e-c2d0c3cf27b8)
 <br/>
 <br/>
 
-<br/>![Screenshot (81)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/ac0f4e58-4269-45c4-ac1b-4cd5dd2c47ea)/>
+<br/>![Screenshot (81)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/ac0f4e58-4269-45c4-ac1b-4cd5dd2c47ea)
 <br/>
 <br/>
 
-<br/>![Screenshot (82)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/8f984dc3-7783-4587-a2ae-3a0dea739be4)/>
+<br/>![Screenshot (82)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/8f984dc3-7783-4587-a2ae-3a0dea739be4)
 <br/>
 <br/>
 
 
-<br/>![Screenshot (83)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/e8afea93-0b96-42a5-a2be-3e99e14fd67f)/>
+<br/>![Screenshot (83)](https://github.com/Radel024/IT-Fundamentals-/assets/137848295/e8afea93-0b96-42a5-a2be-3e99e14fd67f)
 <br/>
 <br/>
 

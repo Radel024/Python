@@ -1,6 +1,5 @@
-# IT-Fundementals-
-
-<h1>Python Weather Database</h1>
+# IT-Fundementals
+Python Weather Database
 
 
 <h2>Description</h2>
